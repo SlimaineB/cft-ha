@@ -1,0 +1,6 @@
+com/slim/cft/service/CftService.class
+com/slim/cft/dto/HealthCheckDTO.class
+com/slim/cft/dto/HealthCheckDTO$HealthCheckDTOBuilder.class
+com/slim/cft/service/CftServiceImpl.class
+com/slim/cft/resource/CftResource.class
+com/slim/cft/health/CftHealthCheck.class
